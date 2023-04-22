@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Chaudhari</h1>
 <h3 align="center">I am currently a Pre-Final year student pursuing Computer Engineering from SNDT University. I'm Enthusiastic, Self-Learner. I love programming, reading, exploring new ventures.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/15v3.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif?cid=ecf05e47vootztqyulvgim7xxaxd0z4t9zezbql1slgdve0x&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranc101&label=Profile%20views&color=0e75b6&style=flat" alt="kiranc101" /> </p>
 
