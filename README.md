@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranc101&label=Profile%20views&color=0e75b6&style=flat" alt="kiranc101" /> </p>
 
-- 🔭 I’m currently working on **Churn Analysis**
+- 🔭 I’m currently working on **Decentralize Chat Application On Ethereum**
 
-- 🌱 I’m currently learning **Java Script, React**
+- 🌱 I’m currently learning **Angular, Quarkus**
 
 - 📫 How to reach me **kiran101sc@gmail.com**
 
